@@ -5,7 +5,7 @@ Axiom trading bots is api information about axiom.trade and using them to copy t
 
 ## Contract
 
-If you wanna built more speed and profitable trading tools, contact here: [Telegram](https://t.me/vicckr) | [Twitter](https://x.com/divi-code)
+If you wanna built more speed and profitable trading tools, contact here: [Telegram](https://t.me/dappopensource) | [Twitter](https://x.com/cryptobotapper)
 
 
 ## Disclaimer
